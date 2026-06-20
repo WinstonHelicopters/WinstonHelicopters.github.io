@@ -18,7 +18,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   I'm a Mechanical Engineer with a Concentration in Aerospace. I have 3 years of experience in the design and testing of prototypes for aerospace, robotics, and assistive technologies. My specialties include Mechanical-Electrical integration, 3D design and testing, and rapid prototyping. Notably, at my previous position at the ETIC, I served as the Lead Engineer for aerospace design, delivering prototypes in collaboration with NASA's T2X office, a collaboration that my team spearheaded. I would attribute my success in life and career to my passion for engineering and innovation, a passion that actually surfaced as a kid with a love for helicopters. In my free time I like to work on aircraft models, flight simulators, and personal UAV projects. As for my career goals, I aim to create technologies that the world has never seen before, next-generation prototypes that are considered ahead of their time.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/avatar.jpg
 
 
 # Link your resume
