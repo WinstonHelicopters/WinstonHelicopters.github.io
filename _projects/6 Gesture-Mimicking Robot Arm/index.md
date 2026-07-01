@@ -5,10 +5,7 @@ description:  "The Gesture-Mimicking Robot Arm is a low-cost, sensor-driven robo
 skills: 
 - Onshape
 - Fused Deposition Modeling
-- Mechanical Fastening
 - PDR-CDR
-- Root cause Analysis
-- Technical Documentation
 - Technology Commercialization
 - Soldering & Electronics Assembly
 - Sensor & Actuator Integration
