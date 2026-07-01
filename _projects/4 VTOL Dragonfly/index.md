@@ -6,13 +6,10 @@ skills:
 - Onshape
 - Solidworks
 - Fused Deposition Modeling
-- Mechanical Fastening
 - PDR-CDR
 - Root cause Analysis
 - Technical Documentation
 - Technology Commercialization
-- Soldering & Electronics Assembly
 - Sensor & Actuator Integration
-- Embedded Systems Integration (Raspberry Pi, embedded computing)
 main-image: /image_2026-06-30_203505450.png
 ---
