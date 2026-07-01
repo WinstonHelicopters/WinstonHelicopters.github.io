@@ -6,7 +6,6 @@ skills:
 - ANSYS
 - Onshape
 - PDR-CDR
-- Root cause Analysis
 - Soldering & Electronics Assembly
 - Sensor & Actuator Integration
 - Embedded Systems Integration (Raspberry Pi, embedded computing)
