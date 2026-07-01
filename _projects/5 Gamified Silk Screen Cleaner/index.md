@@ -10,6 +10,6 @@ skills:
 - Technology Commercialization
 - Soldering & Electronics Assembly
 - Sensor & Actuator Integration
-- Embedded Systems Integration (Raspberry Pi, embedded computing)
+- Embedded Systems Integration
 main-image: /image_2026-06-30_203306227.png
 ---
