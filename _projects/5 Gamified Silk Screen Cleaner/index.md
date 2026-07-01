@@ -7,7 +7,6 @@ skills:
 - Workshop/Machine Shop Equipment
 - Laser Cutting & Engraving
 - PDR-CDR
-- Root cause Analysis
 - Technology Commercialization
 - Soldering & Electronics Assembly
 - Sensor & Actuator Integration
