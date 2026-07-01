@@ -13,5 +13,5 @@ skills:
 - Soldering & Electronics Assembly
 - Sensor & Actuator Integration
 - Embedded Systems Integration (Raspberry Pi, embedded computing)
-main-image: _projects/1 Counter Rotating Coaxial IBC System/image_2026-06-30_204440581.png 
+main-image: /_projects/1 Counter Rotating Coaxial IBC System/image_2026-06-30_204440581.png 
 ---
