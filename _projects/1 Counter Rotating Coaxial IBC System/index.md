@@ -5,11 +5,8 @@ description:  The Counter Rotating Coaxial IBC System is a demonstrative technol
 skills: 
 - ANSYS
 - Onshape
-- Fused Deposition Modeling
-- Mechanical Fastening
 - PDR-CDR
 - Root cause Analysis
-- Technical Documentation
 - Soldering & Electronics Assembly
 - Sensor & Actuator Integration
 - Embedded Systems Integration (Raspberry Pi, embedded computing)
