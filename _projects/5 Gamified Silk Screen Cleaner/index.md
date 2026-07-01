@@ -15,5 +15,5 @@ skills:
 - Soldering & Electronics Assembly
 - Sensor & Actuator Integration
 - Embedded Systems Integration (Raspberry Pi, embedded computing)
-main-image: /project.webp 
+main-image: /image_2026-06-30_203306227.png
 ---
