@@ -7,14 +7,10 @@ skills:
 - Fused Deposition Modeling
 - Workshop/Machine Shop Equipment
 - Laser Cutting & Engraving
-- Mechanical Fastening
 - PDR-CDR
-- Root cause Analysis
 - Technical Documentation
-- Technology Commercialization
 - Soldering & Electronics Assembly
 - Sensor & Actuator Integration
-- Circuit Design (KiCad)
 - Embedded Systems Integration (Raspberry Pi, embedded computing)
 main-image: /image_2026-06-30_203907992.png
 ---
