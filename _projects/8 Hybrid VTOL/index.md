@@ -10,6 +10,5 @@ skills:
 - PDR-CDR
 - Soldering & Electronics Assembly
 - Sensor & Acturator Integration
-- Embedded Systems Integration (Raspberry Pi, embedded computing)
 main-image: /image_2026-06-29_182821518.png 
 ---
